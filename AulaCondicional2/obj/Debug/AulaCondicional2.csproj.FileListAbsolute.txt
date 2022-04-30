@@ -1,0 +1,8 @@
+C:\Users\profi\source\repos\AulaCondicional2\bin\Debug\AulaCondicional2.exe.config
+C:\Users\profi\source\repos\AulaCondicional2\bin\Debug\AulaCondicional2.exe
+C:\Users\profi\source\repos\AulaCondicional2\bin\Debug\AulaCondicional2.pdb
+C:\Users\profi\source\repos\AulaCondicional2\obj\Debug\AulaCondicional2.csproj.AssemblyReference.cache
+C:\Users\profi\source\repos\AulaCondicional2\obj\Debug\AulaCondicional2.csproj.SuggestedBindingRedirects.cache
+C:\Users\profi\source\repos\AulaCondicional2\obj\Debug\AulaCondicional2.csproj.CoreCompileInputs.cache
+C:\Users\profi\source\repos\AulaCondicional2\obj\Debug\AulaCondicional2.exe
+C:\Users\profi\source\repos\AulaCondicional2\obj\Debug\AulaCondicional2.pdb
